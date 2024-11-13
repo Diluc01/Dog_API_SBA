@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+
+.carousel-item {
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.actions {
+  position: fixed;
+  bottom: 5px;
+  left: 50%;
+  font-size: 2rem;
+  padding: 5px;
+}
